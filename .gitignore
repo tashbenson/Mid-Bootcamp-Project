@@ -1,0 +1,4 @@
+.DS_Store
+Notebooks/.ipynb_checkpoints/
+Data/london_crime_by_lsoa.csv
+Data/london_crime_and_house_price_data.csv
