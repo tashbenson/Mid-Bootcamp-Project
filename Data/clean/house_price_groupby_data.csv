@@ -1,0 +1,1981 @@
+borough,year,month_name,average_house_price,number_of_crimes
+Barking and Dagenham,2012,April,164731.04,1264
+Barking and Dagenham,2012,August,166179.7,1269
+Barking and Dagenham,2012,December,167813.02,1260
+Barking and Dagenham,2012,February,163607.22,1307
+Barking and Dagenham,2012,January,163899.02,1437
+Barking and Dagenham,2012,July,168007.15,1342
+Barking and Dagenham,2012,June,168049.09,1298
+Barking and Dagenham,2012,March,164437.52,1557
+Barking and Dagenham,2012,May,166502.98,1371
+Barking and Dagenham,2012,November,166508.02,1392
+Barking and Dagenham,2012,October,165327.7,1299
+Barking and Dagenham,2012,September,165304.48,1194
+Barking and Dagenham,2013,April,169967.71,1297
+Barking and Dagenham,2013,August,173720.45,1215
+Barking and Dagenham,2013,December,183098.95,1159
+Barking and Dagenham,2013,February,169460.75,1423
+Barking and Dagenham,2013,January,167918.76,1453
+Barking and Dagenham,2013,July,174604.28,1414
+Barking and Dagenham,2013,June,172651.76,1203
+Barking and Dagenham,2013,March,169413.84,1397
+Barking and Dagenham,2013,May,170475.25,1297
+Barking and Dagenham,2013,November,181909.73,1367
+Barking and Dagenham,2013,October,176820.56,1327
+Barking and Dagenham,2013,September,174761.46,1207
+Barking and Dagenham,2014,April,193076.7,1183
+Barking and Dagenham,2014,August,204974.04,1236
+Barking and Dagenham,2014,December,218284.7,1241
+Barking and Dagenham,2014,February,185428.45,1204
+Barking and Dagenham,2014,January,184883.65,1254
+Barking and Dagenham,2014,July,201936.12,1338
+Barking and Dagenham,2014,June,198039.77,1269
+Barking and Dagenham,2014,March,189876.91,1418
+Barking and Dagenham,2014,May,196620.4,1218
+Barking and Dagenham,2014,November,216631.09,1434
+Barking and Dagenham,2014,October,213902.79,1296
+Barking and Dagenham,2014,September,210412.14,1335
+Barking and Dagenham,2015,April,222176.33,1278
+Barking and Dagenham,2015,August,241734.72,1338
+Barking and Dagenham,2015,December,253145.36,1410
+Barking and Dagenham,2015,February,222918.55,1165
+Barking and Dagenham,2015,January,220070.15,1251
+Barking and Dagenham,2015,July,235702.39,1494
+Barking and Dagenham,2015,June,227557.92,1362
+Barking and Dagenham,2015,March,222416.94,1471
+Barking and Dagenham,2015,May,221825.74,1436
+Barking and Dagenham,2015,November,246955.46,1437
+Barking and Dagenham,2015,October,243538.57,1329
+Barking and Dagenham,2015,September,243479.16,1375
+Barking and Dagenham,2016,April,266743.69,1339
+Barking and Dagenham,2016,August,279483.75,1346
+Barking and Dagenham,2016,December,285621.88,1278
+Barking and Dagenham,2016,February,262861.02,1371
+Barking and Dagenham,2016,January,258757.89,1376
+Barking and Dagenham,2016,July,274242.53,1534
+Barking and Dagenham,2016,June,269318.45,1449
+Barking and Dagenham,2016,March,266208.95,1491
+Barking and Dagenham,2016,May,268080.54,1555
+Barking and Dagenham,2016,November,285853.44,1316
+Barking and Dagenham,2016,October,286209.99,1323
+Barking and Dagenham,2016,September,283653.5,1363
+Barnet,2012,April,351150.01,1932
+Barnet,2012,August,362585.6,1784
+Barnet,2012,December,361370.67,1903
+Barnet,2012,February,352047.77,1884
+Barnet,2012,January,351280.04,1852
+Barnet,2012,July,362335.28,1990
+Barnet,2012,June,361667.28,1993
+Barnet,2012,March,348611.04,2234
+Barnet,2012,May,353468.96,1966
+Barnet,2012,November,365376.05,2264
+Barnet,2012,October,366526.59,2020
+Barnet,2012,September,367108.87,1751
+Barnet,2013,April,361906.99,1781
+Barnet,2013,August,382032.29,1674
+Barnet,2013,December,392168.34,1925
+Barnet,2013,February,363063.89,1877
+Barnet,2013,January,362880.05,1918
+Barnet,2013,July,377519.93,1925
+Barnet,2013,June,367753.91,1813
+Barnet,2013,March,363754.4,2050
+Barnet,2013,May,364636.98,1834
+Barnet,2013,November,390597.64,1987
+Barnet,2013,October,385628.57,1965
+Barnet,2013,September,385304.34,1761
+Barnet,2014,April,414854.68,1890
+Barnet,2014,August,446442.74,1854
+Barnet,2014,December,450576.63,1904
+Barnet,2014,February,403841.97,1758
+Barnet,2014,January,398384.34,1814
+Barnet,2014,July,438504.79,1929
+Barnet,2014,June,428806.18,1725
+Barnet,2014,March,411452.62,1970
+Barnet,2014,May,421203.0,1934
+Barnet,2014,November,448523.49,1958
+Barnet,2014,October,451041.43,2013
+Barnet,2014,September,450728.35,1823
+Barnet,2015,April,472033.24,1886
+Barnet,2015,August,478796.06,1973
+Barnet,2015,December,501292.88,2072
+Barnet,2015,February,471362.71,1822
+Barnet,2015,January,461382.52,1963
+Barnet,2015,July,470262.04,2127
+Barnet,2015,June,473321.76,2056
+Barnet,2015,March,473232.8,1937
+Barnet,2015,May,466124.82,1932
+Barnet,2015,November,499849.95,2144
+Barnet,2015,October,492109.85,2198
+Barnet,2015,September,484486.77,1926
+Barnet,2016,April,517408.28,2106
+Barnet,2016,August,532357.93,2043
+Barnet,2016,December,522223.27,1975
+Barnet,2016,February,509863.31,1925
+Barnet,2016,January,512166.31,1982
+Barnet,2016,July,535272.28,2062
+Barnet,2016,June,539830.21,2110
+Barnet,2016,March,513342.2,2106
+Barnet,2016,May,533675.74,2159
+Barnet,2016,November,526421.54,2032
+Barnet,2016,October,533792.72,2074
+Barnet,2016,September,534921.13,2110
+Bexley,2012,April,199592.79,938
+Bexley,2012,August,205196.52,898
+Bexley,2012,December,206956.14,952
+Bexley,2012,February,199185.85,886
+Bexley,2012,January,197426.91,921
+Bexley,2012,July,203974.14,1005
+Bexley,2012,June,202550.38,983
+Bexley,2012,March,198638.09,1076
+Bexley,2012,May,200115.66,1103
+Bexley,2012,November,205592.18,947
+Bexley,2012,October,205919.08,1029
+Bexley,2012,September,205409.42,931
+Bexley,2013,April,210863.99,914
+Bexley,2013,August,213353.67,914
+Bexley,2013,December,222076.32,1103
+Bexley,2013,February,210775.76,964
+Bexley,2013,January,209191.54,956
+Bexley,2013,July,209984.32,969
+Bexley,2013,June,210388.36,909
+Bexley,2013,March,210529.7,942
+Bexley,2013,May,210206.45,959
+Bexley,2013,November,219390.53,1050
+Bexley,2013,October,218834.44,966
+Bexley,2013,September,216048.05,906
+Bexley,2014,April,232024.24,1026
+Bexley,2014,August,255182.92,938
+Bexley,2014,December,261987.53,1016
+Bexley,2014,February,226519.0,836
+Bexley,2014,January,224320.52,926
+Bexley,2014,July,249852.91,1113
+Bexley,2014,June,242494.57,1026
+Bexley,2014,March,227502.62,1075
+Bexley,2014,May,236203.62,917
+Bexley,2014,November,260538.66,1016
+Bexley,2014,October,258267.34,1030
+Bexley,2014,September,258619.33,925
+Bexley,2015,April,261865.04,898
+Bexley,2015,August,280370.59,846
+Bexley,2015,December,295744.43,1031
+Bexley,2015,February,261295.73,851
+Bexley,2015,January,261751.29,1031
+Bexley,2015,July,275330.4,990
+Bexley,2015,June,267392.86,1033
+Bexley,2015,March,261084.44,1039
+Bexley,2015,May,264487.66,1063
+Bexley,2015,November,288718.2,1080
+Bexley,2015,October,286189.89,1162
+Bexley,2015,September,286280.86,966
+Bexley,2016,April,311888.63,915
+Bexley,2016,August,326877.59,994
+Bexley,2016,December,331024.54,1182
+Bexley,2016,February,315289.38,1019
+Bexley,2016,January,307550.17,1120
+Bexley,2016,July,325380.52,1093
+Bexley,2016,June,320635.6,1048
+Bexley,2016,March,314140.43,1065
+Bexley,2016,May,314430.75,998
+Bexley,2016,November,331942.71,1152
+Bexley,2016,October,330193.73,1148
+Bexley,2016,September,329408.05,1106
+Brent,2012,April,297524.73,2071
+Brent,2012,August,333734.12,2282
+Brent,2012,December,322170.53,2043
+Brent,2012,February,305248.28,2190
+Brent,2012,January,309544.97,2488
+Brent,2012,July,323765.21,2219
+Brent,2012,June,312586.04,2134
+Brent,2012,March,305559.65,2424
+Brent,2012,May,301924.02,2257
+Brent,2012,November,314303.58,2234
+Brent,2012,October,319366.71,2123
+Brent,2012,September,323625.25,1892
+Brent,2013,April,326443.57,1801
+Brent,2013,August,347721.29,1907
+Brent,2013,December,359846.26,1915
+Brent,2013,February,323824.74,1941
+Brent,2013,January,325755.63,2019
+Brent,2013,July,336231.85,2032
+Brent,2013,June,334340.7,1982
+Brent,2013,March,323030.74,2053
+Brent,2013,May,328625.35,2010
+Brent,2013,November,361040.92,2135
+Brent,2013,October,355724.56,2057
+Brent,2013,September,353281.75,1907
+Brent,2014,April,379175.29,1959
+Brent,2014,August,406619.24,1933
+Brent,2014,December,419643.09,1900
+Brent,2014,February,364592.35,1813
+Brent,2014,January,365189.88,2055
+Brent,2014,July,404163.56,2140
+Brent,2014,June,400902.3,2185
+Brent,2014,March,367413.83,2054
+Brent,2014,May,391225.22,2130
+Brent,2014,November,412968.73,2034
+Brent,2014,October,410328.48,2184
+Brent,2014,September,414027.83,2039
+Brent,2015,April,429920.96,1934
+Brent,2015,August,443363.4,1950
+Brent,2015,December,468583.65,2145
+Brent,2015,February,420874.35,1835
+Brent,2015,January,422944.05,1935
+Brent,2015,July,438513.31,2001
+Brent,2015,June,435950.6,2094
+Brent,2015,March,423953.65,2084
+Brent,2015,May,440208.61,2135
+Brent,2015,November,455424.88,2394
+Brent,2015,October,461859.58,2336
+Brent,2015,September,449822.95,2040
+Brent,2016,April,485098.55,2116
+Brent,2016,August,489421.43,2269
+Brent,2016,December,490417.69,2285
+Brent,2016,February,482554.93,2057
+Brent,2016,January,469515.94,2124
+Brent,2016,July,494640.69,2285
+Brent,2016,June,493629.24,2316
+Brent,2016,March,473554.22,2126
+Brent,2016,May,488299.21,2406
+Brent,2016,November,502654.14,2158
+Brent,2016,October,504664.61,2366
+Brent,2016,September,499182.38,2185
+Bromley,2012,April,277342.09,1436
+Bromley,2012,August,286912.33,1611
+Bromley,2012,December,288681.6,1544
+Bromley,2012,February,278473.78,1606
+Bromley,2012,January,276024.95,1731
+Bromley,2012,July,284387.01,1731
+Bromley,2012,June,281963.14,1578
+Bromley,2012,March,276013.75,1755
+Bromley,2012,May,277755.89,1637
+Bromley,2012,November,285691.58,1740
+Bromley,2012,October,286087.19,1671
+Bromley,2012,September,284966.78,1582
+Bromley,2013,April,287189.84,1615
+Bromley,2013,August,301768.82,1457
+Bromley,2013,December,314302.04,1626
+Bromley,2013,February,285701.45,1529
+Bromley,2013,January,286846.48,1599
+Bromley,2013,July,297144.66,1653
+Bromley,2013,June,294243.0,1402
+Bromley,2013,March,284151.27,1630
+Bromley,2013,May,289505.63,1509
+Bromley,2013,November,309175.7,1688
+Bromley,2013,October,306432.59,1718
+Bromley,2013,September,303568.98,1519
+Bromley,2014,April,327862.64,1542
+Bromley,2014,August,362180.62,1586
+Bromley,2014,December,372899.26,1694
+Bromley,2014,February,318485.7,1514
+Bromley,2014,January,315709.32,1628
+Bromley,2014,July,357091.89,1802
+Bromley,2014,June,347890.74,1646
+Bromley,2014,March,319079.19,1640
+Bromley,2014,May,336865.8,1618
+Bromley,2014,November,374419.72,1718
+Bromley,2014,October,372018.2,1708
+Bromley,2014,September,369783.89,1572
+Bromley,2015,April,370450.35,1684
+Bromley,2015,August,389249.16,1707
+Bromley,2015,December,411123.72,1720
+Bromley,2015,February,370457.6,1577
+Bromley,2015,January,372855.58,1687
+Bromley,2015,July,384312.62,1777
+Bromley,2015,June,382265.81,1794
+Bromley,2015,March,369932.3,1739
+Bromley,2015,May,377117.73,1760
+Bromley,2015,November,404754.42,1716
+Bromley,2015,October,401827.02,1744
+Bromley,2015,September,393831.11,1732
+Bromley,2016,April,422300.95,1530
+Bromley,2016,August,443017.57,1537
+Bromley,2016,December,429187.31,1860
+Bromley,2016,February,416896.65,1647
+Bromley,2016,January,413460.18,1692
+Bromley,2016,July,439330.96,1780
+Bromley,2016,June,432272.4,1607
+Bromley,2016,March,418642.41,1695
+Bromley,2016,May,425209.77,1708
+Bromley,2016,November,427362.83,1755
+Bromley,2016,October,430089.57,1758
+Bromley,2016,September,438326.84,1595
+Camden,2012,April,574961.77,2598
+Camden,2012,August,614424.38,2513
+Camden,2012,December,620350.6,2540
+Camden,2012,February,550840.99,2401
+Camden,2012,January,548416.09,2617
+Camden,2012,July,600405.8,2855
+Camden,2012,June,575349.52,2645
+Camden,2012,March,568978.93,2918
+Camden,2012,May,575995.95,2970
+Camden,2012,November,596278.13,2588
+Camden,2012,October,594506.02,2563
+Camden,2012,September,613483.04,2264
+Camden,2013,April,649539.96,2356
+Camden,2013,August,707358.96,2483
+Camden,2013,December,671214.88,2021
+Camden,2013,February,651997.83,2320
+Camden,2013,January,627541.23,2535
+Camden,2013,July,685330.1,2533
+Camden,2013,June,671438.88,2506
+Camden,2013,March,635099.04,2372
+Camden,2013,May,651476.18,2444
+Camden,2013,November,662700.52,2096
+Camden,2013,October,689918.3,2498
+Camden,2013,September,705754.83,2271
+Camden,2014,April,728941.98,2111
+Camden,2014,August,794040.11,2053
+Camden,2014,December,761593.91,2426
+Camden,2014,February,719848.43,2075
+Camden,2014,January,695470.36,2244
+Camden,2014,July,787361.41,2211
+Camden,2014,June,769628.44,2242
+Camden,2014,March,720064.3,2358
+Camden,2014,May,746937.89,2263
+Camden,2014,November,769851.99,2495
+Camden,2014,October,780637.7,2481
+Camden,2014,September,803461.15,2239
+Camden,2015,April,749621.3,2434
+Camden,2015,August,819743.8,2251
+Camden,2015,December,796767.15,2399
+Camden,2015,February,769170.83,2238
+Camden,2015,January,769724.23,2385
+Camden,2015,July,793213.06,2492
+Camden,2015,June,770153.95,2566
+Camden,2015,March,756915.05,2529
+Camden,2015,May,745684.4,2716
+Camden,2015,November,816647.75,2521
+Camden,2015,October,828315.77,2578
+Camden,2015,September,833333.92,2368
+Camden,2016,April,838254.5,2254
+Camden,2016,August,769511.51,2476
+Camden,2016,December,832125.72,2628
+Camden,2016,February,827590.44,2363
+Camden,2016,January,808530.53,2335
+Camden,2016,July,753956.35,2585
+Camden,2016,June,770905.2,2365
+Camden,2016,March,854686.04,2290
+Camden,2016,May,807400.74,2501
+Camden,2016,November,830454.51,2419
+Camden,2016,October,805146.42,2542
+Camden,2016,September,786865.58,2425
+City of London,2012,April,524290.44,8
+City of London,2012,August,496168.18,13
+City of London,2012,December,491528.76,7
+City of London,2012,February,510537.11,23
+City of London,2012,January,525722.75,18
+City of London,2012,July,543036.88,10
+City of London,2012,June,542517.68,15
+City of London,2012,March,527408.3,16
+City of London,2012,May,573532.4,9
+City of London,2012,November,521448.26,13
+City of London,2012,October,521769.36,11
+City of London,2012,September,525970.5,14
+City of London,2013,April,590684.75,7
+City of London,2013,August,645847.38,18
+City of London,2013,December,615401.01,8
+City of London,2013,February,499206.68,7
+City of London,2013,January,465451.29,10
+City of London,2013,July,651116.06,8
+City of London,2013,June,662700.26,12
+City of London,2013,March,527874.07,7
+City of London,2013,May,578036.86,10
+City of London,2013,November,546793.23,3
+City of London,2013,October,527374.21,7
+City of London,2013,September,529618.78,13
+City of London,2014,April,665262.16,8
+City of London,2014,August,761543.73,9
+City of London,2014,December,773768.32,19
+City of London,2014,February,648359.43,7
+City of London,2014,January,625001.04,11
+City of London,2014,July,724282.34,6
+City of London,2014,June,697309.35,4
+City of London,2014,March,654629.37,4
+City of London,2014,May,682662.51,13
+City of London,2014,November,762734.8,14
+City of London,2014,October,763368.66,9
+City of London,2014,September,753704.13,11
+City of London,2015,April,729148.1,15
+City of London,2015,August,760243.05,16
+City of London,2015,December,713252.56,7
+City of London,2015,February,760549.53,9
+City of London,2015,January,783666.57,9
+City of London,2015,July,779096.64,16
+City of London,2015,June,776509.04,13
+City of London,2015,March,767206.64,10
+City of London,2015,May,762814.72,20
+City of London,2015,November,741727.33,11
+City of London,2015,October,781357.74,9
+City of London,2015,September,767464.3,16
+City of London,2016,April,805319.96,15
+City of London,2016,August,848269.38,19
+City of London,2016,December,811785.72,34
+City of London,2016,February,765643.56,10
+City of London,2016,January,736788.5,10
+City of London,2016,July,911826.81,13
+City of London,2016,June,907964.66,8
+City of London,2016,March,794754.28,12
+City of London,2016,May,845579.47,9
+City of London,2016,November,818662.73,12
+City of London,2016,October,792664.25,17
+City of London,2016,September,780527.28,19
+Croydon,2012,April,221231.91,2402
+Croydon,2012,August,222026.33,2414
+Croydon,2012,December,226742.05,2371
+Croydon,2012,February,217908.27,2240
+Croydon,2012,January,217208.7,2970
+Croydon,2012,July,222293.36,2506
+Croydon,2012,June,223322.66,2494
+Croydon,2012,March,218199.07,2613
+Croydon,2012,May,221817.07,2621
+Croydon,2012,November,224418.14,2675
+Croydon,2012,October,223602.33,2510
+Croydon,2012,September,223035.92,2373
+Croydon,2013,April,224769.29,2173
+Croydon,2013,August,240105.54,2310
+Croydon,2013,December,246214.99,2160
+Croydon,2013,February,224198.96,2184
+Croydon,2013,January,225826.43,2263
+Croydon,2013,July,238169.69,2537
+Croydon,2013,June,234713.36,2336
+Croydon,2013,March,223504.14,2309
+Croydon,2013,May,230346.19,2267
+Croydon,2013,November,243100.19,2273
+Croydon,2013,October,242224.24,2434
+Croydon,2013,September,240105.53,2198
+Croydon,2014,April,265666.87,2042
+Croydon,2014,August,283801.41,2229
+Croydon,2014,December,290220.07,2472
+Croydon,2014,February,253191.62,1963
+Croydon,2014,January,249311.36,2404
+Croydon,2014,July,276361.28,2342
+Croydon,2014,June,274343.55,2280
+Croydon,2014,March,257225.18,2236
+Croydon,2014,May,271043.72,2156
+Croydon,2014,November,291729.81,2449
+Croydon,2014,October,294573.93,2473
+Croydon,2014,September,290460.18,2311
+Croydon,2015,April,295858.84,2303
+Croydon,2015,August,313111.73,2232
+Croydon,2015,December,330485.7,2232
+Croydon,2015,February,290154.73,2101
+Croydon,2015,January,288818.94,2376
+Croydon,2015,July,306205.73,2376
+Croydon,2015,June,299875.9,2553
+Croydon,2015,March,292750.0,2494
+Croydon,2015,May,297564.97,2506
+Croydon,2015,November,326503.9,2451
+Croydon,2015,October,323263.09,2270
+Croydon,2015,September,320175.43,2195
+Croydon,2016,April,348189.7,2334
+Croydon,2016,August,369721.8,2523
+Croydon,2016,December,363571.31,2387
+Croydon,2016,February,337821.5,2154
+Croydon,2016,January,332811.49,2248
+Croydon,2016,July,363898.48,2668
+Croydon,2016,June,358488.46,2466
+Croydon,2016,March,342037.51,2199
+Croydon,2016,May,352807.73,2591
+Croydon,2016,November,363662.25,2288
+Croydon,2016,October,368082.0,2398
+Croydon,2016,September,369069.48,2456
+Ealing,2012,April,304805.41,2212
+Ealing,2012,August,330625.63,2398
+Ealing,2012,December,327287.6,2226
+Ealing,2012,February,308314.58,2171
+Ealing,2012,January,304690.13,2531
+Ealing,2012,July,329311.63,2547
+Ealing,2012,June,321733.9,2420
+Ealing,2012,March,305322.87,2613
+Ealing,2012,May,310930.9,2539
+Ealing,2012,November,329404.5,2518
+Ealing,2012,October,325861.68,2396
+Ealing,2012,September,326082.5,2261
+Ealing,2013,April,328638.96,2156
+Ealing,2013,August,347294.08,2061
+Ealing,2013,December,352969.42,1984
+Ealing,2013,February,322278.07,2231
+Ealing,2013,January,325025.33,2217
+Ealing,2013,July,344200.17,2361
+Ealing,2013,June,340097.33,2191
+Ealing,2013,March,321594.38,2159
+Ealing,2013,May,331102.66,2143
+Ealing,2013,November,349247.39,2185
+Ealing,2013,October,345781.0,2192
+Ealing,2013,September,348838.8,2037
+Ealing,2014,April,384904.48,1918
+Ealing,2014,August,422701.34,2038
+Ealing,2014,December,412835.29,2130
+Ealing,2014,February,370619.72,1817
+Ealing,2014,January,364513.95,1936
+Ealing,2014,July,413032.48,2303
+Ealing,2014,June,405195.88,2172
+Ealing,2014,March,377756.29,2114
+Ealing,2014,May,395085.32,2060
+Ealing,2014,November,413241.87,2113
+Ealing,2014,October,416777.44,2293
+Ealing,2014,September,423807.91,2084
+Ealing,2015,April,418825.66,2049
+Ealing,2015,August,445828.68,2107
+Ealing,2015,December,475935.4,2261
+Ealing,2015,February,412001.74,1888
+Ealing,2015,January,412383.36,2043
+Ealing,2015,July,439528.54,2326
+Ealing,2015,June,430233.5,2376
+Ealing,2015,March,411635.56,2160
+Ealing,2015,May,422372.29,2349
+Ealing,2015,November,474405.39,2225
+Ealing,2015,October,462653.49,2281
+Ealing,2015,September,453922.65,2182
+Ealing,2016,April,477227.0,2276
+Ealing,2016,August,483847.08,2342
+Ealing,2016,December,485390.23,2306
+Ealing,2016,February,471280.27,1851
+Ealing,2016,January,470506.93,2148
+Ealing,2016,July,478452.8,2497
+Ealing,2016,June,477207.46,2422
+Ealing,2016,March,473104.91,2113
+Ealing,2016,May,469889.93,2451
+Ealing,2016,November,475630.17,2125
+Ealing,2016,October,477265.78,2292
+Ealing,2016,September,477486.3,2304
+Enfield,2012,April,238950.58,1686
+Enfield,2012,August,252055.01,1744
+Enfield,2012,December,254951.72,1707
+Enfield,2012,February,241211.27,1651
+Enfield,2012,January,245201.14,1521
+Enfield,2012,July,247629.8,1717
+Enfield,2012,June,246588.98,1847
+Enfield,2012,March,238118.64,1942
+Enfield,2012,May,241600.68,1919
+Enfield,2012,November,256116.66,1856
+Enfield,2012,October,255359.39,1926
+Enfield,2012,September,254221.91,1553
+Enfield,2013,April,250979.09,1680
+Enfield,2013,August,266534.6,1816
+Enfield,2013,December,274721.08,1859
+Enfield,2013,February,254621.15,1732
+Enfield,2013,January,257976.81,1623
+Enfield,2013,July,260419.99,1852
+Enfield,2013,June,255050.6,1901
+Enfield,2013,March,255208.04,1724
+Enfield,2013,May,253467.04,1824
+Enfield,2013,November,270459.57,1876
+Enfield,2013,October,271405.97,1876
+Enfield,2013,September,268408.34,1811
+Enfield,2014,April,281240.72,1682
+Enfield,2014,August,304944.45,1729
+Enfield,2014,December,315082.7,1783
+Enfield,2014,February,275164.23,1702
+Enfield,2014,January,273452.45,1825
+Enfield,2014,July,297079.79,1867
+Enfield,2014,June,289656.56,1764
+Enfield,2014,March,276980.43,1942
+Enfield,2014,May,285433.1,1892
+Enfield,2014,November,313472.21,1822
+Enfield,2014,October,312717.41,1876
+Enfield,2014,September,308965.47,1816
+Enfield,2015,April,321755.84,1701
+Enfield,2015,August,344108.69,1835
+Enfield,2015,December,359624.54,1939
+Enfield,2015,February,316689.54,1660
+Enfield,2015,January,316066.38,1804
+Enfield,2015,July,335380.81,1985
+Enfield,2015,June,328529.88,1778
+Enfield,2015,March,319393.46,1874
+Enfield,2015,May,324720.7,1845
+Enfield,2015,November,355745.6,1971
+Enfield,2015,October,353796.87,1894
+Enfield,2015,September,350229.69,1790
+Enfield,2016,April,378214.84,1880
+Enfield,2016,August,394132.18,1773
+Enfield,2016,December,394465.01,1779
+Enfield,2016,February,367809.42,1723
+Enfield,2016,January,364188.68,1739
+Enfield,2016,July,387870.05,1972
+Enfield,2016,June,384296.66,1777
+Enfield,2016,March,372205.12,1961
+Enfield,2016,May,382086.34,2049
+Enfield,2016,November,398232.6,1960
+Enfield,2016,October,400662.36,1972
+Enfield,2016,September,401714.4,1900
+Greenwich,2012,April,233684.15,1576
+Greenwich,2012,August,241372.08,1741
+Greenwich,2012,December,241770.09,1580
+Greenwich,2012,February,230168.58,1514
+Greenwich,2012,January,228108.76,1708
+Greenwich,2012,July,241182.62,1734
+Greenwich,2012,June,238692.73,1852
+Greenwich,2012,March,232272.57,1729
+Greenwich,2012,May,235995.7,1817
+Greenwich,2012,November,239732.58,1657
+Greenwich,2012,October,240143.85,1626
+Greenwich,2012,September,240643.71,1494
+Greenwich,2013,April,246976.77,1564
+Greenwich,2013,August,254632.8,1520
+Greenwich,2013,December,270966.05,1452
+Greenwich,2013,February,244672.61,1538
+Greenwich,2013,January,243317.87,1656
+Greenwich,2013,July,251706.36,1662
+Greenwich,2013,June,248787.09,1572
+Greenwich,2013,March,246865.23,1491
+Greenwich,2013,May,249862.9,1496
+Greenwich,2013,November,263671.99,1676
+Greenwich,2013,October,260391.14,1742
+Greenwich,2013,September,258940.32,1579
+Greenwich,2014,April,283713.81,1565
+Greenwich,2014,August,313801.62,1560
+Greenwich,2014,December,312910.69,1595
+Greenwich,2014,February,278804.96,1480
+Greenwich,2014,January,276452.44,1572
+Greenwich,2014,July,304855.81,1872
+Greenwich,2014,June,305404.58,1809
+Greenwich,2014,March,276156.64,1605
+Greenwich,2014,May,290617.31,1648
+Greenwich,2014,November,311782.84,1672
+Greenwich,2014,October,313948.23,1727
+Greenwich,2014,September,311768.56,1789
+Greenwich,2015,April,313538.66,1678
+Greenwich,2015,August,341027.55,1751
+Greenwich,2015,December,360227.7,1749
+Greenwich,2015,February,317091.48,1533
+Greenwich,2015,January,317461.01,1779
+Greenwich,2015,July,338278.74,1838
+Greenwich,2015,June,328021.9,1742
+Greenwich,2015,March,315068.61,1771
+Greenwich,2015,May,319770.1,1782
+Greenwich,2015,November,346944.2,1846
+Greenwich,2015,October,343039.91,1765
+Greenwich,2015,September,341715.86,1695
+Greenwich,2016,April,366842.73,1808
+Greenwich,2016,August,379423.62,1919
+Greenwich,2016,December,374293.24,1880
+Greenwich,2016,February,365733.8,1681
+Greenwich,2016,January,365319.39,1863
+Greenwich,2016,July,379563.55,2050
+Greenwich,2016,June,380772.23,2007
+Greenwich,2016,March,360460.73,1836
+Greenwich,2016,May,376365.56,1868
+Greenwich,2016,November,371158.48,1881
+Greenwich,2016,October,374524.38,1982
+Greenwich,2016,September,378395.17,1955
+Hackney,2012,April,311294.53,2234
+Hackney,2012,August,333001.87,2287
+Hackney,2012,December,342619.75,2127
+Hackney,2012,February,310732.81,1950
+Hackney,2012,January,324158.63,2184
+Hackney,2012,July,324415.92,2305
+Hackney,2012,June,321176.14,2422
+Hackney,2012,March,309636.54,2553
+Hackney,2012,May,316720.87,2374
+Hackney,2012,November,340411.23,2209
+Hackney,2012,October,334252.65,2390
+Hackney,2012,September,337488.85,2060
+Hackney,2013,April,357095.63,2117
+Hackney,2013,August,379507.77,2255
+Hackney,2013,December,402761.32,1929
+Hackney,2013,February,352970.75,2024
+Hackney,2013,January,350965.02,2020
+Hackney,2013,July,368133.15,2375
+Hackney,2013,June,362160.59,2254
+Hackney,2013,March,355011.46,2072
+Hackney,2013,May,358151.74,2161
+Hackney,2013,November,397691.78,2124
+Hackney,2013,October,392764.84,2233
+Hackney,2013,September,394812.77,2069
+Hackney,2014,April,440754.77,1960
+Hackney,2014,August,480141.05,2048
+Hackney,2014,December,470618.79,2007
+Hackney,2014,February,423298.41,1852
+Hackney,2014,January,415052.75,1977
+Hackney,2014,July,469549.69,2147
+Hackney,2014,June,460254.84,2163
+Hackney,2014,March,433503.29,2143
+Hackney,2014,May,452303.62,2060
+Hackney,2014,November,466708.19,2251
+Hackney,2014,October,483110.37,2213
+Hackney,2014,September,481365.56,2072
+Hackney,2015,April,494044.53,2190
+Hackney,2015,August,525032.12,2219
+Hackney,2015,December,528858.44,2116
+Hackney,2015,February,480167.8,2086
+Hackney,2015,January,469390.52,2113
+Hackney,2015,July,519468.75,2429
+Hackney,2015,June,515433.0,2458
+Hackney,2015,March,477175.21,2313
+Hackney,2015,May,506157.04,2405
+Hackney,2015,November,520051.73,2225
+Hackney,2015,October,522113.08,2310
+Hackney,2015,September,523695.69,2077
+Hackney,2016,April,535302.93,2212
+Hackney,2016,August,525754.51,2538
+Hackney,2016,December,548758.42,2354
+Hackney,2016,February,556674.88,2041
+Hackney,2016,January,546501.77,2124
+Hackney,2016,July,515654.02,2590
+Hackney,2016,June,500430.26,2625
+Hackney,2016,March,566460.94,2226
+Hackney,2016,May,515687.24,2376
+Hackney,2016,November,557601.67,2301
+Hackney,2016,October,546368.29,2455
+Hackney,2016,September,537761.23,2423
+Hammersmith and Fulham,2012,April,554481.66,1785
+Hammersmith and Fulham,2012,August,592531.87,1748
+Hammersmith and Fulham,2012,December,611486.88,1628
+Hammersmith and Fulham,2012,February,518104.72,1673
+Hammersmith and Fulham,2012,January,509471.99,1711
+Hammersmith and Fulham,2012,July,580568.13,1821
+Hammersmith and Fulham,2012,June,568853.09,1757
+Hammersmith and Fulham,2012,March,530216.55,1827
+Hammersmith and Fulham,2012,May,552495.12,1903
+Hammersmith and Fulham,2012,November,594072.52,1721
+Hammersmith and Fulham,2012,October,603875.76,1750
+Hammersmith and Fulham,2012,September,588823.81,1706
+Hammersmith and Fulham,2013,April,610841.43,1502
+Hammersmith and Fulham,2013,August,625932.31,1540
+Hammersmith and Fulham,2013,December,666669.75,1480
+Hammersmith and Fulham,2013,February,618330.47,1474
+Hammersmith and Fulham,2013,January,601380.06,1577
+Hammersmith and Fulham,2013,July,626507.39,1557
+Hammersmith and Fulham,2013,June,608410.62,1497
+Hammersmith and Fulham,2013,March,616966.91,1489
+Hammersmith and Fulham,2013,May,619405.46,1613
+Hammersmith and Fulham,2013,November,663612.86,1684
+Hammersmith and Fulham,2013,October,663807.84,1681
+Hammersmith and Fulham,2013,September,656484.97,1511
+Hammersmith and Fulham,2014,April,691361.95,1541
+Hammersmith and Fulham,2014,August,762631.31,1607
+Hammersmith and Fulham,2014,December,735096.1,1678
+Hammersmith and Fulham,2014,February,682453.84,1284
+Hammersmith and Fulham,2014,January,666571.57,1552
+Hammersmith and Fulham,2014,July,740943.46,1573
+Hammersmith and Fulham,2014,June,713338.96,1612
+Hammersmith and Fulham,2014,March,681088.29,1475
+Hammersmith and Fulham,2014,May,696569.17,1737
+Hammersmith and Fulham,2014,November,746423.82,1820
+Hammersmith and Fulham,2014,October,763041.27,1722
+Hammersmith and Fulham,2014,September,773678.49,1584
+Hammersmith and Fulham,2015,April,751604.08,1674
+Hammersmith and Fulham,2015,August,780423.15,1560
+Hammersmith and Fulham,2015,December,771959.95,1695
+Hammersmith and Fulham,2015,February,735010.15,1450
+Hammersmith and Fulham,2015,January,732363.58,1634
+Hammersmith and Fulham,2015,July,772831.77,1686
+Hammersmith and Fulham,2015,June,770977.19,1592
+Hammersmith and Fulham,2015,March,743178.51,1701
+Hammersmith and Fulham,2015,May,763256.78,1744
+Hammersmith and Fulham,2015,November,762768.51,1761
+Hammersmith and Fulham,2015,October,766033.75,1791
+Hammersmith and Fulham,2015,September,779596.23,1560
+Hammersmith and Fulham,2016,April,778279.83,1689
+Hammersmith and Fulham,2016,August,749874.56,1779
+Hammersmith and Fulham,2016,December,736962.7,1631
+Hammersmith and Fulham,2016,February,773192.72,1587
+Hammersmith and Fulham,2016,January,770697.42,1587
+Hammersmith and Fulham,2016,July,759728.89,1670
+Hammersmith and Fulham,2016,June,778275.61,1749
+Hammersmith and Fulham,2016,March,765504.58,1653
+Hammersmith and Fulham,2016,May,774019.4,1904
+Hammersmith and Fulham,2016,November,723129.51,1576
+Hammersmith and Fulham,2016,October,720857.46,1719
+Hammersmith and Fulham,2016,September,730645.92,1630
+Haringey,2012,April,331233.15,1869
+Haringey,2012,August,347970.12,1861
+Haringey,2012,December,349603.1,1657
+Haringey,2012,February,323169.79,1836
+Haringey,2012,January,319503.16,2066
+Haringey,2012,July,343104.31,1988
+Haringey,2012,June,342146.19,2032
+Haringey,2012,March,325927.55,2269
+Haringey,2012,May,337371.21,2149
+Haringey,2012,November,350271.62,1882
+Haringey,2012,October,353667.05,1851
+Haringey,2012,September,352263.71,1771
+Haringey,2013,April,360083.79,1630
+Haringey,2013,August,374890.97,1648
+Haringey,2013,December,390063.44,1851
+Haringey,2013,February,355898.64,1483
+Haringey,2013,January,351746.13,1719
+Haringey,2013,July,364191.53,1882
+Haringey,2013,June,351241.54,1944
+Haringey,2013,March,360945.63,1667
+Haringey,2013,May,362274.78,1602
+Haringey,2013,November,398220.84,1853
+Haringey,2013,October,399199.15,1872
+Haringey,2013,September,398046.43,1554
+Haringey,2014,April,402451.32,1719
+Haringey,2014,August,456498.79,1912
+Haringey,2014,December,459312.86,1835
+Haringey,2014,February,400241.57,1736
+Haringey,2014,January,402645.58,1810
+Haringey,2014,July,447312.63,1891
+Haringey,2014,June,436432.43,1948
+Haringey,2014,March,404694.64,1955
+Haringey,2014,May,420345.77,1927
+Haringey,2014,November,464234.64,1994
+Haringey,2014,October,470302.4,2059
+Haringey,2014,September,465220.22,1987
+Haringey,2015,April,454499.33,2020
+Haringey,2015,August,488665.06,2071
+Haringey,2015,December,518351.76,2161
+Haringey,2015,February,452703.15,1805
+Haringey,2015,January,455942.16,1863
+Haringey,2015,July,473658.67,2213
+Haringey,2015,June,468982.24,2018
+Haringey,2015,March,448990.98,2095
+Haringey,2015,May,461901.93,1945
+Haringey,2015,November,521417.77,2245
+Haringey,2015,October,514513.96,2176
+Haringey,2015,September,508005.99,2014
+Haringey,2016,April,511922.32,2184
+Haringey,2016,August,531544.22,2246
+Haringey,2016,December,535097.05,2394
+Haringey,2016,February,512198.05,2110
+Haringey,2016,January,519382.66,1991
+Haringey,2016,July,541365.5,2444
+Haringey,2016,June,530877.52,2262
+Haringey,2016,March,510397.41,2219
+Haringey,2016,May,524867.6,2399
+Haringey,2016,November,535334.19,2295
+Haringey,2016,October,537787.11,2249
+Haringey,2016,September,541345.7,2381
+Harrow,2012,April,298045.9,1004
+Harrow,2012,August,310416.76,990
+Harrow,2012,December,310751.56,989
+Harrow,2012,February,298115.4,1039
+Harrow,2012,January,299885.48,1158
+Harrow,2012,July,303114.42,1107
+Harrow,2012,June,304640.19,1121
+Harrow,2012,March,295844.43,1231
+Harrow,2012,May,296495.39,1095
+Harrow,2012,November,313279.79,1069
+Harrow,2012,October,317281.83,1037
+Harrow,2012,September,310984.41,963
+Harrow,2013,April,310669.35,923
+Harrow,2013,August,324905.62,980
+Harrow,2013,December,336603.61,997
+Harrow,2013,February,309376.08,975
+Harrow,2013,January,306539.46,1072
+Harrow,2013,July,321904.07,968
+Harrow,2013,June,315395.91,978
+Harrow,2013,March,310967.17,1057
+Harrow,2013,May,312443.52,1012
+Harrow,2013,November,330422.34,1027
+Harrow,2013,October,327432.35,1003
+Harrow,2013,September,326112.98,922
+Harrow,2014,April,345557.69,933
+Harrow,2014,August,365767.15,959
+Harrow,2014,December,391893.79,938
+Harrow,2014,February,338069.77,944
+Harrow,2014,January,338589.76,988
+Harrow,2014,July,361408.26,1034
+Harrow,2014,June,355957.8,902
+Harrow,2014,March,339746.54,1089
+Harrow,2014,May,352323.84,974
+Harrow,2014,November,386887.31,1063
+Harrow,2014,October,379166.32,1109
+Harrow,2014,September,374181.46,976
+Harrow,2015,April,393543.52,955
+Harrow,2015,August,418115.3,1004
+Harrow,2015,December,435863.8,1139
+Harrow,2015,February,390584.78,1012
+Harrow,2015,January,390704.56,973
+Harrow,2015,July,406671.54,936
+Harrow,2015,June,401894.94,1005
+Harrow,2015,March,387555.11,1036
+Harrow,2015,May,396812.37,1097
+Harrow,2015,November,428609.7,1198
+Harrow,2015,October,428841.71,1161
+Harrow,2015,September,424055.81,1085
+Harrow,2016,April,451488.16,1048
+Harrow,2016,August,461109.29,1022
+Harrow,2016,December,464037.26,1158
+Harrow,2016,February,444319.05,976
+Harrow,2016,January,437028.44,1075
+Harrow,2016,July,454259.88,1187
+Harrow,2016,June,449361.87,1153
+Harrow,2016,March,447037.87,1130
+Harrow,2016,May,451185.62,1105
+Harrow,2016,November,459734.6,1110
+Harrow,2016,October,465171.77,1099
+Harrow,2016,September,461613.89,1090
+Havering,2012,April,219154.23,1270
+Havering,2012,August,221084.27,1266
+Havering,2012,December,223743.44,1383
+Havering,2012,February,220202.26,1382
+Havering,2012,January,220724.48,1324
+Havering,2012,July,222616.1,1295
+Havering,2012,June,220176.95,1274
+Havering,2012,March,220041.35,1532
+Havering,2012,May,219793.56,1353
+Havering,2012,November,225450.82,1371
+Havering,2012,October,223245.34,1303
+Havering,2012,September,222991.86,1212
+Havering,2013,April,222966.57,1239
+Havering,2013,August,226306.17,1205
+Havering,2013,December,236210.91,1233
+Havering,2013,February,220162.37,1260
+Havering,2013,January,220136.33,1317
+Havering,2013,July,227202.83,1310
+Havering,2013,June,224957.74,1157
+Havering,2013,March,220310.83,1348
+Havering,2013,May,225170.12,1297
+Havering,2013,November,233488.74,1216
+Havering,2013,October,231248.31,1296
+Havering,2013,September,228984.89,1211
+Havering,2014,April,250367.75,1256
+Havering,2014,August,266686.16,1283
+Havering,2014,December,277155.42,1298
+Havering,2014,February,241908.14,1161
+Havering,2014,January,238219.84,1249
+Havering,2014,July,260947.57,1186
+Havering,2014,June,257605.57,1091
+Havering,2014,March,245103.42,1207
+Havering,2014,May,254227.7,1270
+Havering,2014,November,274137.44,1242
+Havering,2014,October,273961.95,1311
+Havering,2014,September,270886.32,1180
+Havering,2015,April,280777.83,1169
+Havering,2015,August,294484.46,1286
+Havering,2015,December,314587.83,1444
+Havering,2015,February,279585.08,1153
+Havering,2015,January,277717.01,1241
+Havering,2015,July,291467.27,1437
+Havering,2015,June,284546.96,1386
+Havering,2015,March,280770.77,1277
+Havering,2015,May,283068.12,1246
+Havering,2015,November,310576.59,1466
+Havering,2015,October,304680.85,1485
+Havering,2015,September,299875.05,1280
+Havering,2016,April,333585.26,1425
+Havering,2016,August,350705.54,1327
+Havering,2016,December,350729.64,1427
+Havering,2016,February,323930.04,1386
+Havering,2016,January,317748.64,1330
+Havering,2016,July,347875.35,1399
+Havering,2016,June,339384.03,1483
+Havering,2016,March,331305.22,1438
+Havering,2016,May,337017.78,1517
+Havering,2016,November,356721.17,1403
+Havering,2016,October,355899.59,1404
+Havering,2016,September,356744.48,1364
+Hillingdon,2012,April,254684.84,1868
+Hillingdon,2012,August,262452.93,1919
+Hillingdon,2012,December,266728.82,1743
+Hillingdon,2012,February,256004.96,1787
+Hillingdon,2012,January,254452.69,2020
+Hillingdon,2012,July,261570.12,1766
+Hillingdon,2012,June,258456.3,1772
+Hillingdon,2012,March,252970.02,2073
+Hillingdon,2012,May,256015.87,1898
+Hillingdon,2012,November,268474.7,1794
+Hillingdon,2012,October,268132.84,1803
+Hillingdon,2012,September,265773.1,1660
+Hillingdon,2013,April,263019.13,1636
+Hillingdon,2013,August,271614.51,1579
+Hillingdon,2013,December,282296.43,1534
+Hillingdon,2013,February,262471.49,1621
+Hillingdon,2013,January,265335.58,1727
+Hillingdon,2013,July,272368.69,1753
+Hillingdon,2013,June,271751.48,1633
+Hillingdon,2013,March,261560.68,1749
+Hillingdon,2013,May,268039.98,1720
+Hillingdon,2013,November,278966.75,1746
+Hillingdon,2013,October,276683.47,1975
+Hillingdon,2013,September,273028.96,1575
+Hillingdon,2014,April,291282.45,1889
+Hillingdon,2014,August,315051.23,1890
+Hillingdon,2014,December,323861.55,1866
+Hillingdon,2014,February,286928.5,1607
+Hillingdon,2014,January,282891.82,1716
+Hillingdon,2014,July,313332.08,2089
+Hillingdon,2014,June,307903.46,2010
+Hillingdon,2014,March,287161.51,1985
+Hillingdon,2014,May,300059.95,2008
+Hillingdon,2014,November,321913.67,2099
+Hillingdon,2014,October,320560.48,2090
+Hillingdon,2014,September,318436.66,1879
+Hillingdon,2015,April,339858.39,1805
+Hillingdon,2015,August,357136.51,1813
+Hillingdon,2015,December,380184.55,2020
+Hillingdon,2015,February,335058.37,1832
+Hillingdon,2015,January,330607.11,1881
+Hillingdon,2015,July,348921.7,1914
+Hillingdon,2015,June,345461.81,2049
+Hillingdon,2015,March,338726.14,1955
+Hillingdon,2015,May,342641.28,1983
+Hillingdon,2015,November,376566.12,2010
+Hillingdon,2015,October,373029.54,2081
+Hillingdon,2015,September,364788.61,1891
+Hillingdon,2016,April,394461.54,1792
+Hillingdon,2016,August,407473.34,1978
+Hillingdon,2016,December,411479.4,2300
+Hillingdon,2016,February,390840.03,1904
+Hillingdon,2016,January,384181.43,1964
+Hillingdon,2016,July,407913.21,2134
+Hillingdon,2016,June,401761.22,2007
+Hillingdon,2016,March,393896.7,1851
+Hillingdon,2016,May,397011.94,2238
+Hillingdon,2016,November,407782.34,2007
+Hillingdon,2016,October,406858.74,2112
+Hillingdon,2016,September,405837.94,2054
+Hounslow,2012,April,260539.71,1879
+Hounslow,2012,August,273857.96,1850
+Hounslow,2012,December,274659.28,1700
+Hounslow,2012,February,260827.63,1798
+Hounslow,2012,January,257406.29,2134
+Hounslow,2012,July,272301.1,1941
+Hounslow,2012,June,267724.86,1921
+Hounslow,2012,March,257915.24,2127
+Hounslow,2012,May,262525.17,1940
+Hounslow,2012,November,275007.57,1754
+Hounslow,2012,October,276190.84,1878
+Hounslow,2012,September,276541.89,1802
+Hounslow,2013,April,286085.52,1573
+Hounslow,2013,August,296701.04,1671
+Hounslow,2013,December,301677.61,1523
+Hounslow,2013,February,270716.93,1536
+Hounslow,2013,January,272498.12,1703
+Hounslow,2013,July,291505.38,1733
+Hounslow,2013,June,290397.63,1581
+Hounslow,2013,March,278596.48,1712
+Hounslow,2013,May,293606.12,1641
+Hounslow,2013,November,301045.78,1715
+Hounslow,2013,October,303708.52,1710
+Hounslow,2013,September,300388.34,1651
+Hounslow,2014,April,304118.91,1628
+Hounslow,2014,August,341611.47,1624
+Hounslow,2014,December,341770.26,1749
+Hounslow,2014,February,303205.77,1560
+Hounslow,2014,January,302920.13,1504
+Hounslow,2014,July,331298.34,1693
+Hounslow,2014,June,313803.07,1745
+Hounslow,2014,March,306568.82,1584
+Hounslow,2014,May,309376.69,1689
+Hounslow,2014,November,345726.68,1757
+Hounslow,2014,October,346245.83,1863
+Hounslow,2014,September,347664.28,1609
+Hounslow,2015,April,339849.48,1604
+Hounslow,2015,August,358655.01,1725
+Hounslow,2015,December,368802.33,1837
+Hounslow,2015,February,329890.43,1670
+Hounslow,2015,January,335139.75,1702
+Hounslow,2015,July,354912.45,1929
+Hounslow,2015,June,349265.17,1795
+Hounslow,2015,March,335899.61,1719
+Hounslow,2015,May,347485.25,1788
+Hounslow,2015,November,366733.96,1895
+Hounslow,2015,October,364874.53,1885
+Hounslow,2015,September,365748.91,1737
+Hounslow,2016,April,383043.22,1743
+Hounslow,2016,August,398008.08,1891
+Hounslow,2016,December,391460.22,1799
+Hounslow,2016,February,376991.0,1723
+Hounslow,2016,January,375818.41,1736
+Hounslow,2016,July,395610.83,1910
+Hounslow,2016,June,388954.6,1863
+Hounslow,2016,March,382232.29,1719
+Hounslow,2016,May,392697.28,1943
+Hounslow,2016,November,379541.99,1904
+Hounslow,2016,October,384390.92,2134
+Hounslow,2016,September,388795.63,1886
+Islington,2012,April,440524.78,2213
+Islington,2012,August,423992.93,2278
+Islington,2012,December,462058.74,2136
+Islington,2012,February,433723.17,1860
+Islington,2012,January,428084.01,2002
+Islington,2012,July,435076.52,2374
+Islington,2012,June,454417.25,2169
+Islington,2012,March,435820.39,2351
+Islington,2012,May,453351.22,2365
+Islington,2012,November,461721.87,2194
+Islington,2012,October,446415.96,2279
+Islington,2012,September,429896.0,2047
+Islington,2013,April,475031.29,1839
+Islington,2013,August,505020.79,1927
+Islington,2013,December,539845.7,1787
+Islington,2013,February,467113.36,2054
+Islington,2013,January,477204.85,2080
+Islington,2013,July,491033.81,2028
+Islington,2013,June,485856.34,1901
+Islington,2013,March,473634.69,2007
+Islington,2013,May,479123.37,2034
+Islington,2013,November,529149.58,2009
+Islington,2013,October,515580.59,2121
+Islington,2013,September,510599.67,1997
+Islington,2014,April,558630.5,1985
+Islington,2014,August,610837.08,1900
+Islington,2014,December,605026.05,2178
+Islington,2014,February,551565.5,1904
+Islington,2014,January,548118.59,2001
+Islington,2014,July,599522.6,2015
+Islington,2014,June,581266.67,1927
+Islington,2014,March,557871.95,2151
+Islington,2014,May,570687.99,2013
+Islington,2014,November,601114.68,2225
+Islington,2014,October,616688.75,2211
+Islington,2014,September,620725.38,2169
+Islington,2015,April,641171.84,2295
+Islington,2015,August,646005.45,2141
+Islington,2015,December,638444.65,2332
+Islington,2015,February,636241.78,2094
+Islington,2015,January,616321.97,2097
+Islington,2015,July,646180.39,2297
+Islington,2015,June,651604.0,2320
+Islington,2015,March,630006.36,2369
+Islington,2015,May,644322.37,2395
+Islington,2015,November,652896.03,2303
+Islington,2015,October,656969.63,2302
+Islington,2015,September,657610.38,2087
+Islington,2016,April,640534.0,2122
+Islington,2016,August,657819.46,2221
+Islington,2016,December,647853.43,2325
+Islington,2016,February,628362.44,2161
+Islington,2016,January,638495.78,2338
+Islington,2016,July,648906.97,2569
+Islington,2016,June,632660.29,2487
+Islington,2016,March,646021.42,2091
+Islington,2016,May,645784.28,2168
+Islington,2016,November,637572.65,2239
+Islington,2016,October,634621.48,2272
+Islington,2016,September,647013.73,2099
+Kensington and Chelsea,2012,April,970715.43,1604
+Kensington and Chelsea,2012,August,1042777.3,2263
+Kensington and Chelsea,2012,December,1044834.09,1566
+Kensington and Chelsea,2012,February,933654.1,1433
+Kensington and Chelsea,2012,January,929644.26,1679
+Kensington and Chelsea,2012,July,1032875.35,1560
+Kensington and Chelsea,2012,June,1030803.14,1571
+Kensington and Chelsea,2012,March,941250.71,1769
+Kensington and Chelsea,2012,May,974635.04,1676
+Kensington and Chelsea,2012,November,1071777.71,1525
+Kensington and Chelsea,2012,October,1077366.27,1615
+Kensington and Chelsea,2012,September,1058206.0,1496
+Kensington and Chelsea,2013,April,1043140.86,1395
+Kensington and Chelsea,2013,August,1189245.35,2048
+Kensington and Chelsea,2013,December,1154072.87,1357
+Kensington and Chelsea,2013,February,1060809.98,1519
+Kensington and Chelsea,2013,January,1067549.84,1536
+Kensington and Chelsea,2013,July,1159558.64,1440
+Kensington and Chelsea,2013,June,1122471.24,1369
+Kensington and Chelsea,2013,March,1076418.53,1368
+Kensington and Chelsea,2013,May,1086592.79,1372
+Kensington and Chelsea,2013,November,1168769.85,1444
+Kensington and Chelsea,2013,October,1172513.65,1443
+Kensington and Chelsea,2013,September,1217728.81,1411
+Kensington and Chelsea,2014,April,1231111.47,1446
+Kensington and Chelsea,2014,August,1347029.88,2007
+Kensington and Chelsea,2014,December,1319379.53,1594
+Kensington and Chelsea,2014,February,1198222.36,1325
+Kensington and Chelsea,2014,January,1204770.98,1344
+Kensington and Chelsea,2014,July,1345615.62,1406
+Kensington and Chelsea,2014,June,1297755.06,1395
+Kensington and Chelsea,2014,March,1209577.9,1419
+Kensington and Chelsea,2014,May,1263467.7,1440
+Kensington and Chelsea,2014,November,1365050.38,1511
+Kensington and Chelsea,2014,October,1334423.09,1566
+Kensington and Chelsea,2014,September,1344464.06,1387
+Kensington and Chelsea,2015,April,1291645.45,1430
+Kensington and Chelsea,2015,August,1316115.9,1665
+Kensington and Chelsea,2015,December,1264909.35,1663
+Kensington and Chelsea,2015,February,1287616.41,1367
+Kensington and Chelsea,2015,January,1313356.77,1527
+Kensington and Chelsea,2015,July,1328276.14,1601
+Kensington and Chelsea,2015,June,1293028.21,1591
+Kensington and Chelsea,2015,March,1306556.65,1557
+Kensington and Chelsea,2015,May,1306191.75,1590
+Kensington and Chelsea,2015,November,1295077.7,1619
+Kensington and Chelsea,2015,October,1268779.81,1715
+Kensington and Chelsea,2015,September,1353678.56,1745
+Kensington and Chelsea,2016,April,1303324.3,1414
+Kensington and Chelsea,2016,August,1206813.47,2398
+Kensington and Chelsea,2016,December,1357230.7,1604
+Kensington and Chelsea,2016,February,1294602.6,1392
+Kensington and Chelsea,2016,January,1335350.55,1511
+Kensington and Chelsea,2016,July,1229599.01,1653
+Kensington and Chelsea,2016,June,1246351.5,1637
+Kensington and Chelsea,2016,March,1319174.02,1531
+Kensington and Chelsea,2016,May,1282707.87,1624
+Kensington and Chelsea,2016,November,1295310.0,1512
+Kensington and Chelsea,2016,October,1217675.95,1595
+Kensington and Chelsea,2016,September,1226681.28,1709
+Kingston upon Thames,2012,April,312482.08,797
+Kingston upon Thames,2012,August,329393.62,875
+Kingston upon Thames,2012,December,336287.82,718
+Kingston upon Thames,2012,February,317949.45,830
+Kingston upon Thames,2012,January,317885.65,878
+Kingston upon Thames,2012,July,325938.01,773
+Kingston upon Thames,2012,June,322871.77,829
+Kingston upon Thames,2012,March,311914.25,906
+Kingston upon Thames,2012,May,318792.04,804
+Kingston upon Thames,2012,November,332015.61,827
+Kingston upon Thames,2012,October,336852.57,890
+Kingston upon Thames,2012,September,332547.46,829
+Kingston upon Thames,2013,April,341148.44,746
+Kingston upon Thames,2013,August,341750.84,741
+Kingston upon Thames,2013,December,362452.5,728
+Kingston upon Thames,2013,February,337033.09,743
+Kingston upon Thames,2013,January,335601.83,776
+Kingston upon Thames,2013,July,341028.8,747
+Kingston upon Thames,2013,June,342177.73,721
+Kingston upon Thames,2013,March,337695.11,797
+Kingston upon Thames,2013,May,346124.93,786
+Kingston upon Thames,2013,November,358743.17,815
+Kingston upon Thames,2013,October,354994.43,847
+Kingston upon Thames,2013,September,350118.92,744
+Kingston upon Thames,2014,April,391612.69,699
+Kingston upon Thames,2014,August,426371.55,755
+Kingston upon Thames,2014,December,429221.52,837
+Kingston upon Thames,2014,February,376687.48,687
+Kingston upon Thames,2014,January,369306.5,673
+Kingston upon Thames,2014,July,414460.45,732
+Kingston upon Thames,2014,June,404271.68,770
+Kingston upon Thames,2014,March,384834.69,809
+Kingston upon Thames,2014,May,395974.55,762
+Kingston upon Thames,2014,November,427595.65,891
+Kingston upon Thames,2014,October,425277.16,833
+Kingston upon Thames,2014,September,427662.69,840
+Kingston upon Thames,2015,April,430152.11,761
+Kingston upon Thames,2015,August,449425.52,784
+Kingston upon Thames,2015,December,460578.19,895
+Kingston upon Thames,2015,February,421759.64,761
+Kingston upon Thames,2015,January,426902.99,756
+Kingston upon Thames,2015,July,434522.63,841
+Kingston upon Thames,2015,June,429603.32,865
+Kingston upon Thames,2015,March,424483.83,799
+Kingston upon Thames,2015,May,428175.25,815
+Kingston upon Thames,2015,November,449012.75,848
+Kingston upon Thames,2015,October,450728.88,838
+Kingston upon Thames,2015,September,450684.9,775
+Kingston upon Thames,2016,April,478030.15,861
+Kingston upon Thames,2016,August,491205.24,796
+Kingston upon Thames,2016,December,490877.92,881
+Kingston upon Thames,2016,February,468323.26,801
+Kingston upon Thames,2016,January,465254.32,807
+Kingston upon Thames,2016,July,497133.72,819
+Kingston upon Thames,2016,June,495559.29,793
+Kingston upon Thames,2016,March,470972.13,782
+Kingston upon Thames,2016,May,488827.96,878
+Kingston upon Thames,2016,November,486863.52,804
+Kingston upon Thames,2016,October,484220.6,859
+Kingston upon Thames,2016,September,482733.25,902
+Lambeth,2012,April,318902.33,2736
+Lambeth,2012,August,338402.33,2872
+Lambeth,2012,December,336415.77,2698
+Lambeth,2012,February,313346.35,2311
+Lambeth,2012,January,308274.32,3154
+Lambeth,2012,July,335266.21,2748
+Lambeth,2012,June,333272.51,2887
+Lambeth,2012,March,314536.98,2995
+Lambeth,2012,May,323925.33,2745
+Lambeth,2012,November,334410.02,2873
+Lambeth,2012,October,338429.1,2756
+Lambeth,2012,September,334409.88,2698
+Lambeth,2013,April,351136.11,2519
+Lambeth,2013,August,367314.8,2860
+Lambeth,2013,December,400387.44,2507
+Lambeth,2013,February,340892.9,2359
+Lambeth,2013,January,331659.71,2696
+Lambeth,2013,July,361264.81,2867
+Lambeth,2013,June,351149.76,2681
+Lambeth,2013,March,346215.42,2658
+Lambeth,2013,May,346608.31,2615
+Lambeth,2013,November,394045.33,2614
+Lambeth,2013,October,387490.97,2844
+Lambeth,2013,September,377423.1,2648
+Lambeth,2014,April,413723.47,2479
+Lambeth,2014,August,449301.63,2797
+Lambeth,2014,December,447526.15,2556
+Lambeth,2014,February,406242.74,2359
+Lambeth,2014,January,395103.79,2726
+Lambeth,2014,July,446018.86,2692
+Lambeth,2014,June,435515.43,2744
+Lambeth,2014,March,401811.34,2493
+Lambeth,2014,May,423947.83,2519
+Lambeth,2014,November,457790.82,2708
+Lambeth,2014,October,463981.5,2931
+Lambeth,2014,September,462535.37,2761
+Lambeth,2015,April,445243.41,2630
+Lambeth,2015,August,499509.82,2944
+Lambeth,2015,December,484535.28,2733
+Lambeth,2015,February,438618.19,2419
+Lambeth,2015,January,441235.04,2415
+Lambeth,2015,July,484639.75,2957
+Lambeth,2015,June,467797.02,2735
+Lambeth,2015,March,443178.94,2757
+Lambeth,2015,May,459886.61,2931
+Lambeth,2015,November,487265.19,2973
+Lambeth,2015,October,499210.98,2978
+Lambeth,2015,September,508248.0,2692
+Lambeth,2016,April,514091.66,2752
+Lambeth,2016,August,529867.1,3016
+Lambeth,2016,December,512057.82,2659
+Lambeth,2016,February,501992.04,2581
+Lambeth,2016,January,491178.09,2752
+Lambeth,2016,July,522676.14,3161
+Lambeth,2016,June,509850.1,2929
+Lambeth,2016,March,512536.35,2721
+Lambeth,2016,May,510867.45,3089
+Lambeth,2016,November,517640.59,2685
+Lambeth,2016,October,521629.56,2872
+Lambeth,2016,September,530361.06,2854
+Lewisham,2012,April,231970.18,1829
+Lewisham,2012,August,243509.59,1910
+Lewisham,2012,December,245358.46,1920
+Lewisham,2012,February,233837.78,1804
+Lewisham,2012,January,231108.45,2036
+Lewisham,2012,July,243276.75,1992
+Lewisham,2012,June,240272.29,2060
+Lewisham,2012,March,233357.56,2254
+Lewisham,2012,May,237462.55,2023
+Lewisham,2012,November,247601.8,2030
+Lewisham,2012,October,250508.32,1939
+Lewisham,2012,September,248599.95,1855
+Lewisham,2013,April,251255.68,1781
+Lewisham,2013,August,264741.61,1881
+Lewisham,2013,December,283720.8,1706
+Lewisham,2013,February,244549.86,1835
+Lewisham,2013,January,242540.21,1937
+Lewisham,2013,July,258118.18,1984
+Lewisham,2013,June,257015.94,1886
+Lewisham,2013,March,245290.68,1900
+Lewisham,2013,May,253145.04,1746
+Lewisham,2013,November,280693.01,1807
+Lewisham,2013,October,277733.38,1851
+Lewisham,2013,September,270976.4,1760
+Lewisham,2014,April,301437.47,1708
+Lewisham,2014,August,327107.84,1640
+Lewisham,2014,December,335388.75,1802
+Lewisham,2014,February,292585.42,1620
+Lewisham,2014,January,289573.52,1754
+Lewisham,2014,July,321963.89,1966
+Lewisham,2014,June,316671.1,1706
+Lewisham,2014,March,296957.51,1772
+Lewisham,2014,May,312790.46,1738
+Lewisham,2014,November,331716.14,1709
+Lewisham,2014,October,331337.2,1846
+Lewisham,2014,September,332221.83,1840
+Lewisham,2015,April,341075.2,1916
+Lewisham,2015,August,360026.2,1974
+Lewisham,2015,December,374744.65,2016
+Lewisham,2015,February,343254.6,1766
+Lewisham,2015,January,340347.49,1730
+Lewisham,2015,July,357303.77,2048
+Lewisham,2015,June,349762.34,2042
+Lewisham,2015,March,340786.47,1909
+Lewisham,2015,May,343797.28,2037
+Lewisham,2015,November,370216.82,2051
+Lewisham,2015,October,370543.76,2015
+Lewisham,2015,September,368740.87,1933
+Lewisham,2016,April,400771.91,1887
+Lewisham,2016,August,409738.0,1991
+Lewisham,2016,December,398752.06,1952
+Lewisham,2016,February,396967.69,1856
+Lewisham,2016,January,384975.24,1989
+Lewisham,2016,July,410646.39,2136
+Lewisham,2016,June,404973.56,2122
+Lewisham,2016,March,399893.15,1966
+Lewisham,2016,May,404005.3,2180
+Lewisham,2016,November,403530.9,1940
+Lewisham,2016,October,406336.34,2000
+Lewisham,2016,September,411193.76,1885
+Merton,2012,April,306942.8,1012
+Merton,2012,August,326135.99,999
+Merton,2012,December,325044.69,1007
+Merton,2012,February,304217.72,1073
+Merton,2012,January,301660.75,1037
+Merton,2012,July,323413.26,1078
+Merton,2012,June,318601.56,1064
+Merton,2012,March,305832.56,1185
+Merton,2012,May,312768.23,1151
+Merton,2012,November,321515.3,1146
+Merton,2012,October,328430.9,1076
+Merton,2012,September,326349.43,1028
+Merton,2013,April,327570.12,1028
+Merton,2013,August,357293.19,882
+Merton,2013,December,359231.29,843
+Merton,2013,February,333548.2,957
+Merton,2013,January,329699.72,1107
+Merton,2013,July,347030.89,1054
+Merton,2013,June,340065.45,956
+Merton,2013,March,328434.94,966
+Merton,2013,May,331119.11,985
+Merton,2013,November,356978.66,963
+Merton,2013,October,359064.18,967
+Merton,2013,September,364497.45,887
+Merton,2014,April,397959.63,853
+Merton,2014,August,452100.63,911
+Merton,2014,December,431895.57,1054
+Merton,2014,February,386133.07,795
+Merton,2014,January,377855.22,901
+Merton,2014,July,436044.45,927
+Merton,2014,June,427035.64,998
+Merton,2014,March,392126.2,957
+Merton,2014,May,408271.8,1026
+Merton,2014,November,434193.28,1107
+Merton,2014,October,449145.2,1050
+Merton,2014,September,446961.22,1017
+Merton,2015,April,437946.59,930
+Merton,2015,August,469369.53,1026
+Merton,2015,December,490897.85,1041
+Merton,2015,February,429906.85,915
+Merton,2015,January,424474.86,1043
+Merton,2015,July,464604.65,1118
+Merton,2015,June,445612.31,1022
+Merton,2015,March,434993.55,980
+Merton,2015,May,444390.16,1104
+Merton,2015,November,489855.27,1095
+Merton,2015,October,480043.99,1076
+Merton,2015,September,480329.7,923
+Merton,2016,April,503813.17,1037
+Merton,2016,August,509854.9,1122
+Merton,2016,December,486293.12,993
+Merton,2016,February,482793.98,1021
+Merton,2016,January,487335.12,1015
+Merton,2016,July,511127.76,1140
+Merton,2016,June,513336.28,973
+Merton,2016,March,495204.79,1124
+Merton,2016,May,514101.01,1117
+Merton,2016,November,489174.6,1087
+Merton,2016,October,504287.12,1074
+Merton,2016,September,505887.24,1052
+Newham,2012,April,209249.67,2339
+Newham,2012,August,214977.06,2653
+Newham,2012,December,214504.43,2445
+Newham,2012,February,210450.67,2249
+Newham,2012,January,213513.03,2299
+Newham,2012,July,216462.94,2629
+Newham,2012,June,212423.37,2462
+Newham,2012,March,211700.79,2875
+Newham,2012,May,213290.06,2549
+Newham,2012,November,211473.02,2517
+Newham,2012,October,211657.58,2617
+Newham,2012,September,214193.85,2433
+Newham,2013,April,220203.2,2280
+Newham,2013,August,224816.7,2330
+Newham,2013,December,229560.79,2271
+Newham,2013,February,217656.13,2091
+Newham,2013,January,216276.24,2402
+Newham,2013,July,224133.29,2574
+Newham,2013,June,224761.88,2241
+Newham,2013,March,218740.13,2194
+Newham,2013,May,221685.97,2142
+Newham,2013,November,228005.39,2460
+Newham,2013,October,223556.26,2528
+Newham,2013,September,224015.03,2064
+Newham,2014,April,242493.36,2250
+Newham,2014,August,270520.8,2172
+Newham,2014,December,279218.95,2357
+Newham,2014,February,234168.67,2304
+Newham,2014,January,234333.83,2326
+Newham,2014,July,263542.34,2362
+Newham,2014,June,257977.15,2270
+Newham,2014,March,234548.47,2565
+Newham,2014,May,249074.78,2335
+Newham,2014,November,279107.82,2405
+Newham,2014,October,278469.21,2344
+Newham,2014,September,276291.76,2315
+Newham,2015,April,287539.12,2165
+Newham,2015,August,301503.83,2359
+Newham,2015,December,319493.43,2360
+Newham,2015,February,279869.86,2269
+Newham,2015,January,278132.37,2478
+Newham,2015,July,297452.64,2616
+Newham,2015,June,293256.4,2475
+Newham,2015,March,282741.99,2568
+Newham,2015,May,291589.74,2336
+Newham,2015,November,317550.45,2547
+Newham,2015,October,313025.34,2617
+Newham,2015,September,308542.53,2427
+Newham,2016,April,337626.47,2347
+Newham,2016,August,359410.48,2495
+Newham,2016,December,353282.09,2703
+Newham,2016,February,329608.86,2308
+Newham,2016,January,325989.71,2422
+Newham,2016,July,355960.1,2583
+Newham,2016,June,351367.74,2455
+Newham,2016,March,336144.09,2381
+Newham,2016,May,343813.9,2474
+Newham,2016,November,360641.82,2695
+Newham,2016,October,359279.54,2771
+Newham,2016,September,362357.85,2456
+Redbridge,2012,April,262919.4,1654
+Redbridge,2012,August,269619.65,1763
+Redbridge,2012,December,264683.04,1648
+Redbridge,2012,February,258660.6,1716
+Redbridge,2012,January,257635.49,1905
+Redbridge,2012,July,270005.53,1772
+Redbridge,2012,June,267446.41,1690
+Redbridge,2012,March,258462.94,1975
+Redbridge,2012,May,266408.88,1852
+Redbridge,2012,November,269169.15,1978
+Redbridge,2012,October,273061.11,1745
+Redbridge,2012,September,272872.36,1726
+Redbridge,2013,April,267003.49,1607
+Redbridge,2013,August,280870.22,1477
+Redbridge,2013,December,287656.5,1641
+Redbridge,2013,February,263623.15,1682
+Redbridge,2013,January,262874.56,1724
+Redbridge,2013,July,277577.07,1612
+Redbridge,2013,June,270453.53,1546
+Redbridge,2013,March,267799.55,1758
+Redbridge,2013,May,268190.24,1664
+Redbridge,2013,November,285106.18,1816
+Redbridge,2013,October,283748.96,1763
+Redbridge,2013,September,282995.87,1503
+Redbridge,2014,April,290221.13,1487
+Redbridge,2014,August,311111.3,1568
+Redbridge,2014,December,326699.39,1691
+Redbridge,2014,February,291686.78,1440
+Redbridge,2014,January,289684.22,1772
+Redbridge,2014,July,306623.54,1732
+Redbridge,2014,June,300479.18,1677
+Redbridge,2014,March,289190.95,1674
+Redbridge,2014,May,293704.59,1607
+Redbridge,2014,November,321365.2,1714
+Redbridge,2014,October,316407.1,1741
+Redbridge,2014,September,312776.26,1487
+Redbridge,2015,April,330581.81,1473
+Redbridge,2015,August,351663.36,1430
+Redbridge,2015,December,369058.96,1672
+Redbridge,2015,February,327255.53,1469
+Redbridge,2015,January,325047.89,1581
+Redbridge,2015,July,342833.41,1603
+Redbridge,2015,June,336842.82,1702
+Redbridge,2015,March,326566.85,1648
+Redbridge,2015,May,328815.19,1460
+Redbridge,2015,November,368279.29,1689
+Redbridge,2015,October,363223.84,1644
+Redbridge,2015,September,355374.56,1526
+Redbridge,2016,April,388739.41,1630
+Redbridge,2016,August,399449.36,1705
+Redbridge,2016,December,402169.34,1560
+Redbridge,2016,February,377716.57,1586
+Redbridge,2016,January,371307.36,1489
+Redbridge,2016,July,394380.96,1730
+Redbridge,2016,June,388322.41,1602
+Redbridge,2016,March,388150.79,1651
+Redbridge,2016,May,389069.12,1651
+Redbridge,2016,November,398303.75,1615
+Redbridge,2016,October,401346.94,1684
+Redbridge,2016,September,403091.76,1599
+Richmond upon Thames,2012,April,445566.16,905
+Richmond upon Thames,2012,August,470964.07,900
+Richmond upon Thames,2012,December,466141.05,868
+Richmond upon Thames,2012,February,442193.85,812
+Richmond upon Thames,2012,January,434897.55,889
+Richmond upon Thames,2012,July,468670.21,991
+Richmond upon Thames,2012,June,457135.21,872
+Richmond upon Thames,2012,March,442764.94,998
+Richmond upon Thames,2012,May,446786.78,1134
+Richmond upon Thames,2012,November,462002.74,947
+Richmond upon Thames,2012,October,456331.11,995
+Richmond upon Thames,2012,September,465848.38,857
+Richmond upon Thames,2013,April,481102.46,889
+Richmond upon Thames,2013,August,504618.75,914
+Richmond upon Thames,2013,December,503809.45,762
+Richmond upon Thames,2013,February,474164.05,790
+Richmond upon Thames,2013,January,473974.01,921
+Richmond upon Thames,2013,July,491191.59,907
+Richmond upon Thames,2013,June,489625.02,942
+Richmond upon Thames,2013,March,474809.72,927
+Richmond upon Thames,2013,May,482861.48,850
+Richmond upon Thames,2013,November,506504.42,850
+Richmond upon Thames,2013,October,512941.63,822
+Richmond upon Thames,2013,September,509785.88,865
+Richmond upon Thames,2014,April,554545.76,827
+Richmond upon Thames,2014,August,607598.77,835
+Richmond upon Thames,2014,December,605032.08,831
+Richmond upon Thames,2014,February,516210.14,680
+Richmond upon Thames,2014,January,512941.72,899
+Richmond upon Thames,2014,July,598031.18,930
+Richmond upon Thames,2014,June,586768.38,909
+Richmond upon Thames,2014,March,534264.4,854
+Richmond upon Thames,2014,May,574048.19,904
+Richmond upon Thames,2014,November,609361.51,955
+Richmond upon Thames,2014,October,610018.63,916
+Richmond upon Thames,2014,September,615843.04,916
+Richmond upon Thames,2015,April,605762.95,858
+Richmond upon Thames,2015,August,632845.23,880
+Richmond upon Thames,2015,December,640645.15,850
+Richmond upon Thames,2015,February,591959.53,753
+Richmond upon Thames,2015,January,593230.43,853
+Richmond upon Thames,2015,July,614134.34,850
+Richmond upon Thames,2015,June,607109.31,870
+Richmond upon Thames,2015,March,593409.68,924
+Richmond upon Thames,2015,May,603858.55,959
+Richmond upon Thames,2015,November,644455.25,830
+Richmond upon Thames,2015,October,654907.33,913
+Richmond upon Thames,2015,September,643019.07,873
+Richmond upon Thames,2016,April,647204.9,845
+Richmond upon Thames,2016,August,670081.35,960
+Richmond upon Thames,2016,December,637708.03,860
+Richmond upon Thames,2016,February,653025.31,809
+Richmond upon Thames,2016,January,643448.38,835
+Richmond upon Thames,2016,July,677067.29,1045
+Richmond upon Thames,2016,June,654185.67,967
+Richmond upon Thames,2016,March,662897.04,859
+Richmond upon Thames,2016,May,654691.84,1061
+Richmond upon Thames,2016,November,639468.6,906
+Richmond upon Thames,2016,October,639088.34,918
+Richmond upon Thames,2016,September,666263.06,1009
+Southwark,2012,April,316547.41,2234
+Southwark,2012,August,340003.04,2619
+Southwark,2012,December,347838.76,2629
+Southwark,2012,February,316878.5,2465
+Southwark,2012,January,314802.16,2558
+Southwark,2012,July,348366.95,2719
+Southwark,2012,June,339161.44,2695
+Southwark,2012,March,315910.28,2714
+Southwark,2012,May,330786.53,2731
+Southwark,2012,November,334333.83,2579
+Southwark,2012,October,331380.77,2445
+Southwark,2012,September,337481.31,2349
+Southwark,2013,April,347839.63,2504
+Southwark,2013,August,362032.76,2586
+Southwark,2013,December,388015.79,2413
+Southwark,2013,February,352306.63,2414
+Southwark,2013,January,342616.25,2746
+Southwark,2013,July,363506.68,2848
+Southwark,2013,June,366355.29,2617
+Southwark,2013,March,330016.09,2622
+Southwark,2013,May,351784.94,2447
+Southwark,2013,November,376147.5,2717
+Southwark,2013,October,376014.16,2659
+Southwark,2013,September,372362.3,2555
+Southwark,2014,April,397813.71,2208
+Southwark,2014,August,441661.66,2375
+Southwark,2014,December,447422.74,2305
+Southwark,2014,February,401255.76,2188
+Southwark,2014,January,396213.3,2260
+Southwark,2014,July,437381.76,2550
+Southwark,2014,June,426532.27,2400
+Southwark,2014,March,395415.06,2416
+Southwark,2014,May,417812.96,2314
+Southwark,2014,November,457005.61,2611
+Southwark,2014,October,458333.95,2705
+Southwark,2014,September,456360.18,2580
+Southwark,2015,April,446846.06,2435
+Southwark,2015,August,482318.52,2531
+Southwark,2015,December,488642.46,2543
+Southwark,2015,February,444793.8,2235
+Southwark,2015,January,447193.88,2465
+Southwark,2015,July,475937.25,2592
+Southwark,2015,June,466241.57,2613
+Southwark,2015,March,445189.88,2424
+Southwark,2015,May,457925.68,2772
+Southwark,2015,November,485993.42,2734
+Southwark,2015,October,487628.75,2550
+Southwark,2015,September,485698.95,2366
+Southwark,2016,April,514788.68,2572
+Southwark,2016,August,508908.33,2746
+Southwark,2016,December,509842.95,2603
+Southwark,2016,February,498894.55,2429
+Southwark,2016,January,495497.26,2480
+Southwark,2016,July,505215.63,2705
+Southwark,2016,June,503827.16,2681
+Southwark,2016,March,513355.65,2476
+Southwark,2016,May,517877.57,2915
+Southwark,2016,November,515504.14,2528
+Southwark,2016,October,521833.26,2709
+Southwark,2016,September,518429.96,2792
+Sutton,2012,April,235097.18,895
+Sutton,2012,August,239079.34,902
+Sutton,2012,December,244047.13,924
+Sutton,2012,February,233932.96,880
+Sutton,2012,January,234451.71,824
+Sutton,2012,July,241191.01,936
+Sutton,2012,June,238754.39,903
+Sutton,2012,March,233525.9,1009
+Sutton,2012,May,237807.7,943
+Sutton,2012,November,244326.68,928
+Sutton,2012,October,242476.92,991
+Sutton,2012,September,241415.21,813
+Sutton,2013,April,242913.82,839
+Sutton,2013,August,254848.08,843
+Sutton,2013,December,265231.16,801
+Sutton,2013,February,243275.28,760
+Sutton,2013,January,243568.19,863
+Sutton,2013,July,253393.5,877
+Sutton,2013,June,250480.2,827
+Sutton,2013,March,243096.01,824
+Sutton,2013,May,248213.35,789
+Sutton,2013,November,261968.07,867
+Sutton,2013,October,260491.98,930
+Sutton,2013,September,256554.48,837
+Sutton,2014,April,277918.07,776
+Sutton,2014,August,297731.94,734
+Sutton,2014,December,310124.69,953
+Sutton,2014,February,272240.68,802
+Sutton,2014,January,269434.06,831
+Sutton,2014,July,289551.74,955
+Sutton,2014,June,284984.4,889
+Sutton,2014,March,274933.67,890
+Sutton,2014,May,281158.65,792
+Sutton,2014,November,313785.26,1006
+Sutton,2014,October,313165.59,981
+Sutton,2014,September,308555.91,834
+Sutton,2015,April,314051.27,913
+Sutton,2015,August,327395.75,845
+Sutton,2015,December,341716.6,876
+Sutton,2015,February,310645.16,918
+Sutton,2015,January,307545.47,835
+Sutton,2015,July,323504.57,812
+Sutton,2015,June,316575.72,1002
+Sutton,2015,March,311024.74,962
+Sutton,2015,May,314506.66,849
+Sutton,2015,November,338618.6,832
+Sutton,2015,October,335502.48,938
+Sutton,2015,September,334098.65,816
+Sutton,2016,April,360226.07,904
+Sutton,2016,August,376311.12,768
+Sutton,2016,December,369868.69,871
+Sutton,2016,February,351088.15,914
+Sutton,2016,January,343907.45,895
+Sutton,2016,July,373699.11,831
+Sutton,2016,June,369743.48,896
+Sutton,2016,March,354131.33,942
+Sutton,2016,May,363180.67,932
+Sutton,2016,November,371406.78,960
+Sutton,2016,October,374922.83,847
+Sutton,2016,September,375151.88,898
+Tower Hamlets,2012,April,275452.8,2065
+Tower Hamlets,2012,August,290364.79,2446
+Tower Hamlets,2012,December,295733.55,1939
+Tower Hamlets,2012,February,281664.39,2061
+Tower Hamlets,2012,January,287957.21,2167
+Tower Hamlets,2012,July,283469.02,2336
+Tower Hamlets,2012,June,282398.79,2636
+Tower Hamlets,2012,March,277388.68,2256
+Tower Hamlets,2012,May,273785.2,2193
+Tower Hamlets,2012,November,293979.28,2263
+Tower Hamlets,2012,October,294066.72,2309
+Tower Hamlets,2012,September,289175.17,2113
+Tower Hamlets,2013,April,291850.06,2171
+Tower Hamlets,2013,August,309365.48,2278
+Tower Hamlets,2013,December,351674.04,1909
+Tower Hamlets,2013,February,294609.58,1939
+Tower Hamlets,2013,January,293974.53,2087
+Tower Hamlets,2013,July,306442.97,2553
+Tower Hamlets,2013,June,304279.81,2109
+Tower Hamlets,2013,March,287166.78,2132
+Tower Hamlets,2013,May,293106.5,2393
+Tower Hamlets,2013,November,339743.74,2227
+Tower Hamlets,2013,October,324529.1,2283
+Tower Hamlets,2013,September,311869.91,2177
+Tower Hamlets,2014,April,376185.4,1952
+Tower Hamlets,2014,August,386155.7,2065
+Tower Hamlets,2014,December,404510.93,2159
+Tower Hamlets,2014,February,360797.96,1793
+Tower Hamlets,2014,January,355235.44,1938
+Tower Hamlets,2014,July,380477.57,2305
+Tower Hamlets,2014,June,382091.42,2300
+Tower Hamlets,2014,March,367789.35,2120
+Tower Hamlets,2014,May,380179.54,2107
+Tower Hamlets,2014,November,399719.91,2308
+Tower Hamlets,2014,October,401869.71,2237
+Tower Hamlets,2014,September,391887.33,2220
+Tower Hamlets,2015,April,409026.3,2071
+Tower Hamlets,2015,August,419833.6,2315
+Tower Hamlets,2015,December,444124.53,2400
+Tower Hamlets,2015,February,409418.59,2036
+Tower Hamlets,2015,January,407228.13,2163
+Tower Hamlets,2015,July,426683.82,2597
+Tower Hamlets,2015,June,429688.92,2278
+Tower Hamlets,2015,March,405580.02,2273
+Tower Hamlets,2015,May,422345.54,2372
+Tower Hamlets,2015,November,440717.37,2326
+Tower Hamlets,2015,October,426900.67,2400
+Tower Hamlets,2015,September,421778.56,2262
+Tower Hamlets,2016,April,456739.83,2323
+Tower Hamlets,2016,August,449286.5,2451
+Tower Hamlets,2016,December,460400.44,2405
+Tower Hamlets,2016,February,460405.26,2086
+Tower Hamlets,2016,January,458754.49,2345
+Tower Hamlets,2016,July,443470.79,2783
+Tower Hamlets,2016,June,439720.45,2467
+Tower Hamlets,2016,March,469410.29,2178
+Tower Hamlets,2016,May,450420.86,2519
+Tower Hamlets,2016,November,467870.74,2501
+Tower Hamlets,2016,October,465361.79,2707
+Tower Hamlets,2016,September,463713.74,2488
+Waltham Forest,2012,April,225589.36,1898
+Waltham Forest,2012,August,236018.1,1936
+Waltham Forest,2012,December,236813.8,1850
+Waltham Forest,2012,February,225213.63,1628
+Waltham Forest,2012,January,224073.89,1657
+Waltham Forest,2012,July,236795.81,1953
+Waltham Forest,2012,June,232594.53,2002
+Waltham Forest,2012,March,224065.03,2012
+Waltham Forest,2012,May,228913.66,2043
+Waltham Forest,2012,November,231967.94,1945
+Waltham Forest,2012,October,231511.78,1863
+Waltham Forest,2012,September,235160.63,1860
+Waltham Forest,2013,April,244409.96,1805
+Waltham Forest,2013,August,258567.98,1848
+Waltham Forest,2013,December,273184.4,1709
+Waltham Forest,2013,February,239893.22,1755
+Waltham Forest,2013,January,236855.6,2030
+Waltham Forest,2013,July,256556.96,1811
+Waltham Forest,2013,June,251846.03,1780
+Waltham Forest,2013,March,239644.13,1765
+Waltham Forest,2013,May,250010.88,1877
+Waltham Forest,2013,November,269067.97,1784
+Waltham Forest,2013,October,266434.63,1900
+Waltham Forest,2013,September,264711.43,1839
+Waltham Forest,2014,April,295647.1,1648
+Waltham Forest,2014,August,329446.85,1677
+Waltham Forest,2014,December,341382.12,1574
+Waltham Forest,2014,February,287032.11,1644
+Waltham Forest,2014,January,279085.16,1726
+Waltham Forest,2014,July,321200.48,1768
+Waltham Forest,2014,June,309114.3,1722
+Waltham Forest,2014,March,290181.73,1726
+Waltham Forest,2014,May,301593.02,1712
+Waltham Forest,2014,November,341818.43,1707
+Waltham Forest,2014,October,342013.22,1718
+Waltham Forest,2014,September,340698.23,1649
+Waltham Forest,2015,April,339615.35,1700
+Waltham Forest,2015,August,366329.42,1762
+Waltham Forest,2015,December,386440.73,1858
+Waltham Forest,2015,February,337204.51,1504
+Waltham Forest,2015,January,338714.25,1666
+Waltham Forest,2015,July,355647.08,1887
+Waltham Forest,2015,June,350957.69,1871
+Waltham Forest,2015,March,335742.56,1799
+Waltham Forest,2015,May,342504.78,1639
+Waltham Forest,2015,November,385214.36,1912
+Waltham Forest,2015,October,380366.28,1771
+Waltham Forest,2015,September,371423.37,1600
+Waltham Forest,2016,April,410743.06,1653
+Waltham Forest,2016,August,415578.79,1663
+Waltham Forest,2016,December,433856.58,1718
+Waltham Forest,2016,February,404346.99,1696
+Waltham Forest,2016,January,391910.98,1703
+Waltham Forest,2016,July,413812.52,1831
+Waltham Forest,2016,June,405638.03,1789
+Waltham Forest,2016,March,411147.57,1760
+Waltham Forest,2016,May,403535.94,1780
+Waltham Forest,2016,November,430892.54,1719
+Waltham Forest,2016,October,420219.95,1763
+Waltham Forest,2016,September,416108.3,1641
+Wandsworth,2012,April,384882.57,1965
+Wandsworth,2012,August,426869.49,1893
+Wandsworth,2012,December,420718.07,1763
+Wandsworth,2012,February,391740.85,1894
+Wandsworth,2012,January,398087.52,1876
+Wandsworth,2012,July,422025.21,2112
+Wandsworth,2012,June,409834.37,2086
+Wandsworth,2012,March,389385.83,2387
+Wandsworth,2012,May,402781.42,2110
+Wandsworth,2012,November,415508.73,2126
+Wandsworth,2012,October,421101.55,2261
+Wandsworth,2012,September,429769.04,1984
+Wandsworth,2013,April,441132.47,1853
+Wandsworth,2013,August,467455.15,1959
+Wandsworth,2013,December,484071.11,1571
+Wandsworth,2013,February,440102.71,1823
+Wandsworth,2013,January,429429.64,1895
+Wandsworth,2013,July,455531.76,1924
+Wandsworth,2013,June,448359.1,1886
+Wandsworth,2013,March,434679.3,1867
+Wandsworth,2013,May,439484.97,1917
+Wandsworth,2013,November,482711.99,1773
+Wandsworth,2013,October,481145.09,1934
+Wandsworth,2013,September,484745.48,1888
+Wandsworth,2014,April,529299.89,1613
+Wandsworth,2014,August,573212.02,1800
+Wandsworth,2014,December,554230.75,1809
+Wandsworth,2014,February,508624.12,1543
+Wandsworth,2014,January,497300.3,1727
+Wandsworth,2014,July,564032.63,1882
+Wandsworth,2014,June,556613.63,1852
+Wandsworth,2014,March,516857.41,1620
+Wandsworth,2014,May,542335.18,1723
+Wandsworth,2014,November,554007.53,1923
+Wandsworth,2014,October,566963.75,1972
+Wandsworth,2014,September,570702.77,1900
+Wandsworth,2015,April,561529.6,1834
+Wandsworth,2015,August,584058.86,1772
+Wandsworth,2015,December,594043.79,1810
+Wandsworth,2015,February,560272.04,1720
+Wandsworth,2015,January,553840.66,1779
+Wandsworth,2015,July,568399.36,1888
+Wandsworth,2015,June,556659.93,1914
+Wandsworth,2015,March,561250.56,1949
+Wandsworth,2015,May,556144.29,1979
+Wandsworth,2015,November,592968.28,1907
+Wandsworth,2015,October,593325.05,1970
+Wandsworth,2015,September,589801.57,1879
+Wandsworth,2016,April,604127.05,1888
+Wandsworth,2016,August,609803.24,2021
+Wandsworth,2016,December,615143.79,1913
+Wandsworth,2016,February,593982.66,1774
+Wandsworth,2016,January,596494.34,1800
+Wandsworth,2016,July,614052.06,2303
+Wandsworth,2016,June,609995.04,1962
+Wandsworth,2016,March,602144.1,1872
+Wandsworth,2016,May,613096.14,2036
+Wandsworth,2016,November,615152.18,1904
+Wandsworth,2016,October,617955.88,2197
+Wandsworth,2016,September,612944.41,2009
+Westminster,2012,April,650451.69,4623
+Westminster,2012,August,739682.95,5246
+Westminster,2012,December,745032.19,5147
+Westminster,2012,February,654620.47,4381
+Westminster,2012,January,653185.1,5084
+Westminster,2012,July,711876.6,5428
+Westminster,2012,June,704719.96,4797
+Westminster,2012,March,642526.81,5362
+Westminster,2012,May,664967.27,5104
+Westminster,2012,November,729043.72,4952
+Westminster,2012,October,736038.65,4761
+Westminster,2012,September,730967.08,4341
+Westminster,2013,April,771733.56,4458
+Westminster,2013,August,779456.82,4640
+Westminster,2013,December,857653.36,4445
+Westminster,2013,February,733268.66,4431
+Westminster,2013,January,736489.26,4749
+Westminster,2013,July,786473.37,4758
+Westminster,2013,June,793530.68,4506
+Westminster,2013,March,730982.23,4577
+Westminster,2013,May,786436.07,4309
+Westminster,2013,November,854946.49,4420
+Westminster,2013,October,834514.69,4512
+Westminster,2013,September,814184.54,4047
+Westminster,2014,April,890320.17,3684
+Westminster,2014,August,949689.73,3917
+Westminster,2014,December,975870.97,4314
+Westminster,2014,February,879566.28,3825
+Westminster,2014,January,855066.87,4172
+Westminster,2014,July,941640.93,3806
+Westminster,2014,June,923345.42,3887
+Westminster,2014,March,877610.4,4349
+Westminster,2014,May,896171.44,3821
+Westminster,2014,November,974046.53,3973
+Westminster,2014,October,955881.96,4029
+Westminster,2014,September,953216.14,3787
+Westminster,2015,April,945095.22,3757
+Westminster,2015,August,935637.89,3944
+Westminster,2015,December,1013416.94,4414
+Westminster,2015,February,979436.3,3403
+Westminster,2015,January,976648.83,3997
+Westminster,2015,July,958775.81,3933
+Westminster,2015,June,928565.83,3790
+Westminster,2015,March,966294.07,3974
+Westminster,2015,May,922584.46,4048
+Westminster,2015,November,1013362.49,4225
+Westminster,2015,October,963913.77,4179
+Westminster,2015,September,971985.26,3731
+Westminster,2016,April,966368.89,3736
+Westminster,2016,August,986768.25,4291
+Westminster,2016,December,1029584.83,4751
+Westminster,2016,February,989059.01,3755
+Westminster,2016,January,1024446.73,4022
+Westminster,2016,July,1025447.65,4357
+Westminster,2016,June,1017286.2,3785
+Westminster,2016,March,971279.33,3703
+Westminster,2016,May,1007474.23,3789
+Westminster,2016,November,999384.17,4275
+Westminster,2016,October,961901.0,4093
+Westminster,2016,September,967520.05,3773
