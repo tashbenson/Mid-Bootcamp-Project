@@ -3,6 +3,7 @@ Week5 Project - London Crime between 2012-2016
 Datasets:
 https://www.kaggle.com/datasets/jboysen/london-crime
 https://data.london.gov.uk/dataset/uk-house-price-index
+https://www.openintro.org/data/index.php?data=london_boroughs
 
 The aim of the project is to answer the following questions:
 
